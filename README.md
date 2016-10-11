@@ -1,4 +1,4 @@
-# easy_decision_tree
+# Easy_DecisionTree
 
 for 87p
 
